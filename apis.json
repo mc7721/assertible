@@ -1,0 +1,65 @@
+{
+    "name": "Assertible",
+    "description": "Continuously test your web services. Teams and individuals gain confidence in crucial infrastructure by using Assertible to continuously test and monitor APIs and websites.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/23434-assertible.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "testing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/assertible\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Assertible",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/23434-assertible.jpg",
+            "humanURL": "https:\/\/assertible.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/assertible-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/assertible-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/assertible.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/assertible"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/assertible.com\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "admin@assertible.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/assertible"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AssertibleApp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/assertible.com\/"
+        }
+    ]
+}
